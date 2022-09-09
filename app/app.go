@@ -1,6 +1,6 @@
 package app
 
-import "github.com/mobius-scheduler/mobius/common"
+import "github.com/hithxh/mobius/common"
 
 type Application interface {
 	Init(AppConfig)

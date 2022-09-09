@@ -2,7 +2,7 @@ package vrp
 
 import (
 	"fmt"
-	"github.com/mobius-scheduler/mobius/common"
+	"github.com/hithxh/mobius/common"
 )
 
 // schema for route for a single vehicle in schedule

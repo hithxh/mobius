@@ -2,8 +2,8 @@ package mobius
 
 import (
 	"errors"
-	"github.com/mobius-scheduler/mobius/common"
-	"github.com/mobius-scheduler/mobius/vrp"
+	"github.com/hithxh/mobius/common"
+	"github.com/hithxh/mobius/vrp"
 	log "github.com/sirupsen/logrus"
 	"math"
 	"sort"

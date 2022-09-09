@@ -1,7 +1,7 @@
 package vrp
 
 import (
-	"github.com/mobius-scheduler/mobius/common"
+	"github.com/hithxh/mobius/common"
 	log "github.com/sirupsen/logrus"
 	"math"
 	"sort"

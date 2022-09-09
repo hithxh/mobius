@@ -2,9 +2,9 @@ package mobius
 
 import (
 	"fmt"
-	"github.com/mobius-scheduler/mobius/app"
-	"github.com/mobius-scheduler/mobius/common"
-	"github.com/mobius-scheduler/mobius/vrp"
+	"github.com/hithxh/mobius/app"
+	"github.com/hithxh/mobius/common"
+	"github.com/hithxh/mobius/vrp"
 	log "github.com/sirupsen/logrus"
 )
 
