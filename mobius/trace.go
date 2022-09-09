@@ -2,7 +2,7 @@ package mobius
 
 import (
 	"fmt"
-	"github.com/hithxhmobius/vrp"
+	"github.com/hithxh/mobius/vrp"
 )
 
 // extend hull (for tracing entire frontier)
